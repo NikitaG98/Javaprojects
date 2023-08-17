@@ -1,0 +1,6 @@
+
+
+dir
+copy con test.txt cd..
+git status
+D:\Javaprojectspart1\Javaprojects\src>git status
